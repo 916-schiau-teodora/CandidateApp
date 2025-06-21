@@ -1,0 +1,16 @@
+{
+  "name": "candidate-app",
+  "version": "1.0.0",
+  "description": "Candidate Management Application",
+  "main": "index.js",
+  "dependencies": {
+    "@faker-js/faker": "^8.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+} 
